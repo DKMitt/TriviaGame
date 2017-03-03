@@ -31,54 +31,54 @@ unanswered questions and win/lose message.
 	
 	var iqac [{
 		id: "qa1",
-		question: "",
-		answer: ["", "", "", ""],	
+		question: "6This is a type of semiconductor in which the flow of current can be controlled through a base or gate terminal. It is usually used for electronic switching or amplifiers.",
+		answer: ["varistor", "diode", "transistor", "resistor"],	
 		correctAnswer: ""
 		
 	}, {
 		id: "qa2",
-		question: "",
-		answer: ["", "", "", ""],
+		question: "This consists of an electromagnet, which is used to open or close a contact(s). It is used in switching that requires isolation or high power.",
+		answer: ["relay", "transistor", "rheostat", "inductor"],
 		correctAnswer: ""
 	}, {
 		id: "qa3",
-		question: "",
-		answer: ["", "", "", ""],
+		question: "This is a type of semiconductor that only allows current to flow in one direction. It is usually used to rectify AC signals (conversion to DC).",
+		answer: ["diode", "transformer", "univac", "inductor"],
 		correctAnswer: ""
 	}, {
 		id: "qa4",
-		question: "",
-		answer: ["", "", "", ""],
+		question: "This can consist of a simple wire wound into a helix. It developes a magnetic field when current passes through it. It is also used in tuning circuits and filters. This one passes DC and blocks AC.",
+		answer: ["semiconductor", "capacitor", "inductor", "transistor"],
 		correctAnswer: ""
 	}, {
 		id: "qa5",
-		question: "",
-		answer: ["", "", "", ""],
+		question: "This consists of two plates separated by a dielectric and can store a charge. Useful in tuning and filtering circuits, it blocks DC while passing AC.",
+		answer: ["inductor", "capacitor", "transistor", "relay"],
 		correctAnswer: ""
 	}, {
 		id: "qa6",
-		question: "",
-		answer: ["", "", "", ""],
+		question: "Made from a variety of materials, such as carbon, this inhibits the flow of current.",
+		answer: ["inductor", "resistor", "capacitor", "choke"],
 		correctAnswer: ""
 	}, {
 		id: "qa7",
-		question: "",
-		answer: ["", "", "", ""],
+		question: "This is a type of display that uses tiny polarized crystals that align when current is passed through them. Used in conjuction with a polarized lens they darken when energized. They are very popular in watches, calculators, and lap-tops.",
+		answer: ["LED", "LCD", "CRT", "Quartz Crystal"],
 		correctAnswer: ""
 	}, {
 		id: "qa8",
-		question: "",
-		answer: ["", "", "", ""],
+		question: "This is a special type of diode that lights up when a small voltage is applied. They are usually used as indicators or in numerical or alphanumerical displays.",
+		answer: ["Zener diode", "incandescent lamp", "LCD", "LED"],
 		correctAnswer: ""
 	}, {
 		id: "qa9",
-		question: "",
-		answer: ["", "", "", ""],
+		question: "This is a special type of diode that breaks down when a critical reverse voltage is applied. It is most commonly used to regulate voltage.",
+		answer: ["transistor", "Zener diode", "anode", "LED"],
 		correctAnswer: ""
 	}, {
 		id: "qa10",
-		question: "",
-		answer: ["", "", "", ""],
+		question: "This consists of usually two coil windings which usually share a magnetic core. It is used to convert an AC source or signal into another AC source or signal with the same power (ideally) but different voltage and current.",
+		answer: ["transformer", "relay", "transistor", "choke"],
 		correctAnswer: ""
 	}]
 
