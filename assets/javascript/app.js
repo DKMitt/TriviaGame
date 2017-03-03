@@ -22,7 +22,6 @@ unanswered questions and win/lose message.
 
 */
 
-
     var wins = 0;
 	var losses = 0;
     var winAudio = new Audio('assets/audio/win.wav');
@@ -32,53 +31,53 @@ unanswered questions and win/lose message.
 	var iqac [{
 		id: "qa1",
 		question: "",
-		answer: "",	
+		answer: ["", "", "", ""],	
 		correctAnswer: "",
 		
 	}, {
 		id: "qa2",
 		question: "",
-		answer: "",	
+		answer: ["", "", "", ""],
 		correctAnswer: "",
 	}, {
 		id: "qa3",
 		question: "",
-		answer: "",	
+		answer: ["", "", "", ""],
 		correctAnswer: "",
 	}, {
 		id: "qa4",
 		question: "",
-		answer: "",	
+		answer: ["", "", "", ""],
 		correctAnswer: "",
 	}, {
 		id: "qa5",
 		question: "",
-		answer: "",	
+		answer: ["", "", "", ""],
 		correctAnswer: "",
 	}, {
 		id: "qa6",
 		question: "",
-		answer: "",	
+		answer: ["", "", "", ""],
 		correctAnswer: "",
 	}, {
 		id: "qa7",
 		question: "",
-		answer: "",	
+		answer: ["", "", "", ""],
 		correctAnswer: "",
 	}, {
 		id: "qa8",
 		question: "",
-		answer: "",	
+		answer: ["", "", "", ""],
 		correctAnswer: "",
 	}, {
 		id: "qa9",
 		question: "",
-		answer: "",	
+		answer: ["", "", "", ""],
 		correctAnswer: "",
 	}, {
 		id: "qa10",
 		question: "",
-		answer: "",	
+		answer: ["", "", "", ""],
 		correctAnswer: "",
 	}]
 
