@@ -8,7 +8,7 @@ button starts the game with countdown timer.
 viewer answers questions (only 1 answer per question) capture those answers.
 	* user answers questions
 	
-game ends when viewer clicks done button within time limit or time runs out.
+game ends when viewer answers all the questions and clicks the done button within time limit or time runs out.
 	* on button click checks answers
 	* timers runs out checks answers
 	* games ends
@@ -16,9 +16,10 @@ game ends when viewer clicks done button within time limit or time runs out.
 display the results to the user of the quantity of correct, incorrect and 
 unanswered questions and win/lose message.
 	* displays results of wins
-	* displays results of loses
+	* displays results of losses
 	* displays results of unanswered
-	* displays win/lose message
+	* displays win/lose message or images (maybe)
+	* plays audio on win or lose (maybe)
 
 */
 
@@ -32,53 +33,53 @@ unanswered questions and win/lose message.
 		id: "qa1",
 		question: "",
 		answer: ["", "", "", ""],	
-		correctAnswer: "",
+		correctAnswer: ""
 		
 	}, {
 		id: "qa2",
 		question: "",
 		answer: ["", "", "", ""],
-		correctAnswer: "",
+		correctAnswer: ""
 	}, {
 		id: "qa3",
 		question: "",
 		answer: ["", "", "", ""],
-		correctAnswer: "",
+		correctAnswer: ""
 	}, {
 		id: "qa4",
 		question: "",
 		answer: ["", "", "", ""],
-		correctAnswer: "",
+		correctAnswer: ""
 	}, {
 		id: "qa5",
 		question: "",
 		answer: ["", "", "", ""],
-		correctAnswer: "",
+		correctAnswer: ""
 	}, {
 		id: "qa6",
 		question: "",
 		answer: ["", "", "", ""],
-		correctAnswer: "",
+		correctAnswer: ""
 	}, {
 		id: "qa7",
 		question: "",
 		answer: ["", "", "", ""],
-		correctAnswer: "",
+		correctAnswer: ""
 	}, {
 		id: "qa8",
 		question: "",
 		answer: ["", "", "", ""],
-		correctAnswer: "",
+		correctAnswer: ""
 	}, {
 		id: "qa9",
 		question: "",
 		answer: ["", "", "", ""],
-		correctAnswer: "",
+		correctAnswer: ""
 	}, {
 		id: "qa10",
 		question: "",
 		answer: ["", "", "", ""],
-		correctAnswer: "",
+		correctAnswer: ""
 	}]
 
 	
